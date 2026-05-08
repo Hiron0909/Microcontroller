@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\faisa\Desktop\Microcontroller\Dot Matrix Display\Dot_Matrix_Display.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\faisa\Desktop\Microcontroller\Dot Matrix Display\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Dot_Matrix_Display.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Dot_Matrix_Display.c
+diagnostics: 23	123	Compiled Successfully	Dot_Matrix_Display.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 3 (1%)  Free RAM (bytes): 349 (99%)	Used RAM (bytes): 3 (1%)  Free RAM (bytes): 349 (99%)
+hint: 0	1144	Used ROM (program words): 78 (1%)  Free ROM (program words): 8114 (99%)	Used ROM (program words): 78 (1%)  Free ROM (program words): 8114 (99%)
+diagnostics: 0	125	Project Linked Successfully	Dot_Matrix_Display.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Dot_Matrix_Display.mcppi' completed: 281 ms	 
+diagnostics: 0	103	Finished successfully: 08 May 2026, 21:59:44	Dot_Matrix_Display.mcppi
