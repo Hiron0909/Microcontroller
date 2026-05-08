@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\Dot Matrix Display\Dot_Matrix_Display.mcppi
+Project1=EEPROM.mcppi
+[ActiveProject]
+Index=1
