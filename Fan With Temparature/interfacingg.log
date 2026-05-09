@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\faisa\Desktop\Microcontroller\Fan With Temparature\interfacingg.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\faisa\Desktop\Microcontroller\Fan With Temparature\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "interfacingg.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_C.mcl" "__Lib_UART_c67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	interfacingg.c
+diagnostics: 90	123	Compiled Successfully	interfacingg.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 110 (31%)  Free RAM (bytes): 242 (69%)	Used RAM (bytes): 110 (31%)  Free RAM (bytes): 242 (69%)
+hint: 0	1144	Used ROM (program words): 1790 (22%)  Free ROM (program words): 6402 (78%)	Used ROM (program words): 1790 (22%)  Free ROM (program words): 6402 (78%)
+diagnostics: 0	125	Project Linked Successfully	interfacingg.mcppi
+diagnostics: 0	128	Linked in 63 ms	 
+diagnostics: 0	129	Project 'interfacingg.mcppi' completed: 297 ms	 
+diagnostics: 0	103	Finished successfully: 09 May 2026, 10:08:36	interfacingg.mcppi
